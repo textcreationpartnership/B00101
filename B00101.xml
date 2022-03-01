@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most excellent and vertuous ballad of the patient Grissell. To the tune of The brides good morrow.</title>
+            <author>Deloney, Thomas, 1543?-1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00101</idno>
+            <idno type="STC">STC 12385</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[302]</idno>
+            <idno type="EEBO-CITATION">99884369</idno>
+            <idno type="PROQUEST">ocm99884369</idno>
+            <idno type="VID">183076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183076)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[160])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most excellent and vertuous ballad of the patient Grissell. To the tune of The brides good morrow.</title>
+                  <author>Deloney, Thomas, 1543?-1600.</author>
+                  <author>Boccaccio, Giovanni, 1313-1375.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Deloney.</note>
+                  <note>Based on book 10, novel 10 of: Giovanni Boccaccio's Decamerone.</note>
+                  <note>Verse: "A noble marquesse ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Griselda (Legendary character) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="302" facs="tcp:183076:1" rendition="simple:additions"/>
+            <head>A moſt execellent and vertuous Ballad of the Patient <hi>Griſſell.</hi>
+            </head>
+            <opener>To the tune of <hi>The Brides good morrow.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <figDesc>three separate biblical or apocryphal scenes with bibliographical labels</figDesc>
+                     <p>3 ELIA. 18</p>
+                     <p>3. AHA 20</p>
+                     <p>4 ELIA. 2</p>
+                  </figure>
+               </p>
+               <l>
+                  <hi>A</hi> Noble Marqueſſe,</l>
+               <l>As he did ride a hunting</l>
+               <l>hard by a Forreſt ſide,</l>
+               <l>A faire and comely Maiden,</l>
+               <l>As ſhe did ſit a ſpinning,</l>
+               <l>his gentle eye eſpide:</l>
+               <l>Moſt faire and louely,</l>
+               <l>And of comely grace was ſhe,</l>
+               <l>although in ſimple attire;</l>
+               <l>She ſung full ſweetly,</l>
+               <l>With pleaſant voyce melodiouſly,</l>
+               <l>which ſet the Lords heart on fire;</l>
+               <l>The more he lookt, the more he might,</l>
+               <l>Beauty bred his hearts delight,</l>
+               <l>And to this Damſell</l>
+               <l>then he went.</l>
+               <l>God ſpeed (quoth he) thou famous flower,</l>
+               <l>Faire Miſtris of this homely Bower,</l>
+               <l>Where loue and vertue</l>
+               <l>dwels with ſweet content.</l>
+               <l>With comely geſture,</l>
+               <l>And modeſt mild behauiour</l>
+               <l>ſhe bade him welcome then,</l>
+               <l>She entertain'd him</l>
+               <l>In faithfull friendly manner,</l>
+               <l>and all his Gentlemen.</l>
+               <l>The Noble Marqueſſe</l>
+               <l>In's heart felt ſuch a flame,</l>
+               <l>which ſet his ſenſes at ſtrife,</l>
+               <l>Quoth he, faire Maiden,</l>
+               <l>Shew me ſoone what is thy name,</l>
+               <l>I meane to make thee my wife.</l>
+               <l>
+                  <hi>Griſſell</hi> is my name quoth ſhe,</l>
+               <l>Farre vnfit for your degree,</l>
+               <l>ſilly Maiden,</l>
+               <l>and of Parents poore.</l>
+               <l>Nay, <hi>Griſſell,</hi> thou art rich, he ſaid,</l>
+               <l>A vertuous, faire, and comely Maid,</l>
+               <l>Grant me thy loue,</l>
+               <l>and I will aske no more.</l>
+               <l>At length ſhe conſented,</l>
+               <l>And being both contented,</l>
+               <l>they married were with ſpeed:</l>
+               <l>Her Countrey Ruſſet</l>
+               <l>Was chang'd to Silke and Veluet,</l>
+               <l>as to her ſtate agreed:</l>
+               <l>And when that ſhe</l>
+               <l>Was trimly tired in the ſame,</l>
+               <l>her beauty ſhined bright,</l>
+               <l>Farre ſtaining euery</l>
+               <l>Other faire and Princely Dame</l>
+               <l>that did appeare in her ſight.</l>
+               <l>Many enuied her therefore,</l>
+               <l>Becauſe ſhe was of Parents poore,</l>
+               <l>And t'wixt her Lord and ſhe</l>
+               <l>great ſtrife did raiſe:</l>
+               <l>Some ſaid this, and ſome ſaid that,</l>
+               <l>And ſome did call her Beggers brat,</l>
+               <l>And to her Lord</l>
+               <l>they would her oft diſpraiſe.</l>
+               <l>O Noble Marqueſſe,</l>
+               <l>Quoth they, why doſt thou wrong vs,</l>
+               <l>thus baſely for to wed,</l>
+               <l>That might haue gotten</l>
+               <l>An honorable Lady</l>
+               <l>into your Princely bed?</l>
+               <l>Who will not now</l>
+               <l>Your Noble Iſſue ſtill deride,</l>
+               <l>which ſhall hereafter be borne,</l>
+               <l>That are of bloud ſo baſe,</l>
+               <l>Borne by the Mothers ſide,</l>
+               <l>the which will bring them in ſcorne.</l>
+               <l>Put her therefore quite away,</l>
+               <l>And take to you a Lady gay,</l>
+               <l>Whereby your Linage</l>
+               <l>may renowned be.</l>
+               <l>Thus euery day they ſeem'd to prate,</l>
+               <l>That malic'd <hi>Griſſells</hi> good eſtate,</l>
+               <l>Who all this while</l>
+               <l>tooke it moſt patiently.</l>
+               <l>When that the Marqueſſe</l>
+               <l>Did ſee that they were bent thus</l>
+               <l>againſt his faithfull Wife,</l>
+               <l>Whom he moſt dearely,</l>
+               <l>Tenderly, and intirely,</l>
+               <l>beloued as his life,</l>
+               <l>Minding in ſecret</l>
+               <l>For to proue her patient heart</l>
+               <l>thereby her foes to diſgrace,</l>
+               <l>Thinking to ſhew her</l>
+               <l>A hard diſcourteous part,</l>
+               <l>that men might pitty her caſe:</l>
+               <l>Great with child this Lady was,</l>
+               <l>And at laſt it came to paſſe,</l>
+               <l>Two goodly children</l>
+               <l>at one birth ſhe had,</l>
+               <l>A Son and Daughter God had ſent,</l>
+               <l>Which did their Father well content,</l>
+               <l>And which did make</l>
+               <l>their Mothers heart full glad,</l>
+               <l>Great royall Feaſting</l>
+               <l>Was at theſe Childrens Chriſtning,</l>
+               <l>and Princely triumph made,</l>
+               <l>Sixe weekes together,</l>
+               <l>All Nobles that came thither</l>
+               <l>were entertain'd and ſtaid,</l>
+               <l>And when all theſe pleaſant</l>
+               <l>Sportings quite were done,</l>
+               <l>the Marqueſſe a Meſſenger ſent</l>
+               <l>For his young Daughter,</l>
+               <l>And his pretty ſmiling Son,</l>
+               <l>declaring his full intent,</l>
+               <l>How that the Babes muſt murdred be,</l>
+               <l>For ſo the Marqueſſe did decree:</l>
+               <l>Come, let me haue</l>
+               <l>the Children, than he ſaid.</l>
+               <l>With that faire <hi>Griſſel</hi> wept full ſore,</l>
+               <l>She wrung her hands &amp; ſaid no more,</l>
+               <l>My gracious Lord</l>
+               <l>muſt haue his will obeyd.</l>
+            </div>
+            <div n="2" type="part">
+               <pb n="303" facs="tcp:183076:1" rendition="simple:additions"/>
+               <head>The ſecond part</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a biblical or apocryphal scene</figDesc>
+                  </figure>
+               </p>
+               <l>SHe tooke the Babies,</l>
+               <l>Euen from the nurſing Ladies,</l>
+               <l>betweene her tender armes,</l>
+               <l>She often wiſhes</l>
+               <l>With many ſorrowfull kiſſes,</l>
+               <l>that ſhe might eaſe their harmes:</l>
+               <l>Farewell, farewell</l>
+               <l>A thouſand times my children deare,</l>
+               <l>neuer ſhall I ſée you againe;</l>
+               <l>'Tis long of me</l>
+               <l>Your ſad and wofull mother here,</l>
+               <l>for whoſe ſake both muſt be ſlaine;</l>
+               <l>Had I béene borne of Royall race,</l>
+               <l>You might haue béene in happy caſe,</l>
+               <l>But you muſt dye</l>
+               <l>for my vnworthineſſe.</l>
+               <l>Come meſſenger of death (quoth ſhe)</l>
+               <l>Take my deareſt Babes to thee,</l>
+               <l>And to their Father</l>
+               <l>my complaints expreſſe.</l>
+               <l>He tooke the Children,</l>
+               <l>And to his Noble Maſter</l>
+               <l>he brought them both with ſpéed,</l>
+               <l>Who in ſecret ſent them</l>
+               <l>Vnto a Noble Lady</l>
+               <l>to be brought vp indeed.</l>
+               <l>Then to faire <hi>Griſſell</hi>
+               </l>
+               <l>With a heavy heart he goes</l>
+               <l>where ſhe ſate mildly all alone,</l>
+               <l>A pleaſant geſture,</l>
+               <l>And a louely looke ſhe ſhewes,</l>
+               <l>as if no griefe ſhe had knowne.</l>
+               <l>(Qd. he) my children now are ſlaine,</l>
+               <l>What thinks faire <hi>Griſſell</hi> of the ſame,</l>
+               <l>Sweet <hi>Griſſell</hi> now</l>
+               <l>declare thy mind to me.</l>
+               <l>Sith you, my Lord are pleas'd with it,</l>
+               <l>Poore <hi>Griſſell</hi> thinks the action fit,</l>
+               <l>Both I and mine</l>
+               <l>at your command will be.</l>
+               <l>My Nobles murmur,</l>
+               <l>Faire <hi>Griſſell</hi> at thy honour,</l>
+               <l>and I no ioy can haue</l>
+               <l>Till thou be baniſht</l>
+               <l>Both from my Court and preſence,</l>
+               <l>as they vniuſtly craue,</l>
+               <l>Thou muſt be ſtript</l>
+               <l>Out of thy ſtately garments all,</l>
+               <l>and as thou cam'ſt to me</l>
+               <l>In homely gray</l>
+               <l>In ſtead of Biſſe and pureſt Pall,</l>
+               <l>now all thy clothing muſt be.</l>
+               <l>My Lady thou muſt be no more,</l>
+               <l>Nor I thy Lord, which grieues me ſore,</l>
+               <l>The pooreſt life</l>
+               <l>muſt now content thy mind.</l>
+               <l>A groat to thee I muſt not giue,</l>
+               <l>Thee to maintaine while I doe liue,</l>
+               <l>Againſt my <hi>Griſſell</hi>
+               </l>
+               <l>ſuch great foes I find.</l>
+               <l>When gentle <hi>Griſſell</hi>
+               </l>
+               <l>Did heare theſe wofull tidings,</l>
+               <l>the teares ſtood in her eyes,</l>
+               <l>Nothing ſhe anſwered,</l>
+               <l>No words of diſcontentment</l>
+               <l>did from her lips ariſe;</l>
+               <l>Her Velvet Gowne</l>
+               <l>Moſt patiently ſhe ſlipped off,</l>
+               <l>her Kirtle of Silke with the ſame,</l>
+               <l>Her Ruſſet Gowne</l>
+               <l>Was brought againe with many a ſcoffe</l>
+               <l>to beare them her ſelfe ſhe did frame,</l>
+               <l>When ſhe was dreſt in this array,</l>
+               <l>And was ready to part away,</l>
+               <l>God ſend long life</l>
+               <l>vnto my Lord (quoth ſhe)</l>
+               <l>Let no offence be found in this,</l>
+               <l>To giue my Lord a parting kiſſe,</l>
+               <l>With watry eyes,</l>
+               <l>farewell my deare, he ſaid.</l>
+               <l>From Princely Palace,</l>
+               <l>Vnto her Fathers Cottage,</l>
+               <l>poore <hi>Griſſell</hi> now is gone:</l>
+               <l>Full ſixteene Winters</l>
+               <l>She liued there contented,</l>
+               <l>no wrong ſhe thought vpon:</l>
+               <l>And at that time through</l>
+               <l>All the Land the ſpeeches went,</l>
+               <l>the Marqueſſe ſhould married be,</l>
+               <l>Vnto a Noble Lady great,</l>
+               <l>Of high diſcent,</l>
+               <l>and to the ſame all parties did agr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>The Marqueſſe ſent for <hi>Griſſell</hi> faire</l>
+               <l>The Brides bed-chamber to prepare</l>
+               <l>That nothing therein</l>
+               <l>might be found awry;</l>
+               <l>The Bride was with her Brother com<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which was great ioy to all and ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But <hi>Griſſell</hi> tooke</l>
+               <l>all this moſt patiently.</l>
+               <l>And in the morning,</l>
+               <l>When as they ſhould be wedded,</l>
+               <l>her patience then was tride;</l>
+               <l>
+                  <hi>Griſſell</hi> was charged,</l>
+               <l>Her ſelfe in friendly manner,</l>
+               <l>for to attire the Bride,</l>
+               <l>Moſt willingly</l>
+               <l>She gaue conſent to doe the ſame,</l>
+               <l>the Bride in her brauery was dreſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And preſently</l>
+               <l>The Noble Marqueſſe thither came</l>
+               <l>with all his Lords at his requeſt,</l>
+               <l>O <hi>Griſſell,</hi> I would aske of thee,</l>
+               <l>If to this match thou wilt agree,</l>
+               <l>Me thinks thy lookes</l>
+               <l>are waxed wondrous coy.</l>
+               <l>With that they all began to ſmile,</l>
+               <l>And <hi>Griſſell</hi> ſhe replide the while,</l>
+               <l>God ſend Lord Marqueſſe</l>
+               <l>many yeares of ioy.</l>
+               <l>The Marqueſſe was moued</l>
+               <l>To ſee his beſt beloued</l>
+               <l>thus patient in diſtreſſe,</l>
+               <l>He ſtept vnto her,</l>
+               <l>And by the hand he tooke her,</l>
+               <l>theſe words he did expreſſe,</l>
+               <l>Thou art my Bride,</l>
+               <l>And all the Brides I meane to haue,</l>
+               <l>theſe two thine owne children be,</l>
+               <l>The youthfull Lady</l>
+               <l>On her knees did bleſſing craue,</l>
+               <l>her brother as well as ſhe.</l>
+               <l>And you th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t enuied her eſtate,</l>
+               <l>Whom I haue made my louing <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Now bluſh for ſhame,</l>
+               <l>and honour vertuous life.</l>
+               <l>The Chronicles of laſting fame</l>
+               <l>Shall euermore extoll the name</l>
+               <l>Of Patient <hi>Griſſell</hi>
+               </l>
+               <l>my moſt conſtant Wife.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Iohn Wright.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
